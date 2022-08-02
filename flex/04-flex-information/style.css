@@ -10,8 +10,18 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
 }
 
+.icons {
+  display: flex;
+  gap: 20px;
+}
+
+.saffron, .chilli, .barberry, .pepper {
+  text-align: center;
+  margin: 0px 50px;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
